@@ -16,8 +16,7 @@ Run the [installation script](pythonInstallation.bat), which will install the pr
 
 # Application Presentation
 Example usage and all implemented functions was presented on video.
-
-
+[![PolyTheremin Presentation](https://img.youtube.com/vi/Dlh9XJ3kCwI/0.jpg)](https://www.youtube.com/watch?v=Dlh9XJ3kCwI)
 
 # Contribution
 If you find any issues, feel free to open a pull request and describe the problem. 
