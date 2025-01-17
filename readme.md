@@ -7,7 +7,8 @@ For detect a hand movement, the application uses [mediapipe](https://github.com/
 
 # Before opening LabView...
 Run the [installation script](pythonInstallation.bat), which will install the proper Python version and create a virtual environment for the mediapipe library.
-https://github.com/user-attachments/assets/24161088-da3a-4458-9bec-f73b979741b2
+
+[PolyTheremin installation](https://github.com/user-attachments/assets/24161088-da3a-4458-9bec-f73b979741b2)
 
 # Hardware
 - My PolyTheremin [testing platform](https://github.com/MiCyg/PolyTheremin_Hardware)
