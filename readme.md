@@ -1,5 +1,5 @@
 # Description
-More information on [PolyTheremin](https://github.com/MiCyg/PolyTheremin_Hardware) repository. 
+More information on [PolyTheremin](https://github.com/MiCyg/PolyTheremin) repository. 
 
 This application provides integration and testing of acquisition and processing techniques, as well as data collection for the development of a decorrelation algorithm.  
 It uses my previously built PolyTheremin [testing platform](https://github.com/MiCyg/PolyTheremin_Hardware) to detect hand gestures and measure distances between fingers and the proximity sensors.  
