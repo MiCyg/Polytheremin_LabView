@@ -2,7 +2,7 @@
 
 More details are available in the [PolyTheremin repository](https://github.com/MiCyg/PolyTheremin) (currently under development).
 
-This application integrates and tests acquisition and processing techniques while collecting data to support the development of a decorrelation algorithm. It uses the [PolyTheremin testing platform](https://github.com/MiCyg/PolyTheremin_Hardware) (currently under development) to detect hand gestures and measure distances between fingers and proximity sensors.
+This application integrates and tests acquisition and processing techniques while collecting data to support the development of a decorrelation algorithm. It uses the [PolyTheremin testing platform](https://github.com/MiCyg/PolyTheremin_Hardware) to detect hand gestures and measure distances between fingers and proximity sensors.
 
 Hand movement detection is performed using the [Mediapipe library](https://github.com/google-ai-edge/mediapipe). To simplify setup, an installer has been provided to install the required Python version and dependencies.
 
@@ -23,7 +23,7 @@ If the script fails to run, you can contact me for assistance or manually instal
 
 # Hardware Requirements
 
-- [PolyTheremin testing platform](https://github.com/MiCyg/PolyTheremin_Hardware) (currently under development) 
+- [PolyTheremin testing platform](https://github.com/MiCyg/PolyTheremin_Hardware) 
 - Camera  
 - cDAQ-9171 USB chassis  
 - NI9215 module  
